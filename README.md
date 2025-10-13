@@ -42,7 +42,7 @@ This repository contains solutions to **100 programming problems in Java**, star
 - Dynamic Programming (Knapsack, LIS, Matrix Chain Multiplication)  
 - Advanced Array & String Problems  
 
-👉 Full **list of 100 problems is available [here](PROBLEMS.md).**
+👉 Full **list of 100 problems is available [here](https://github.com/Devendra440/Java-100DCodesChallenge).**
 
 ---
 
