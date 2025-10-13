@@ -28,28 +28,28 @@ Check if array is sorted
 Remove duplicates from sorted array
 
 Medium (11–20)
-11. Left rotate array by 1
-12. Rotate array by k positions
-13. Move zeros to end
-14. Find missing number in 1–n
-15. Intersection of two arrays
-16. Union of two arrays
-17. Subarray with given sum
-18. Count pairs with given sum
-19. Sort array of 0s,1s,2s (Dutch Flag)
-20. Merge two sorted arrays
+Left rotate array by 1
+Rotate array by k positions
+Move zeros to end
+Find missing number in 1–n
+Intersection of two arrays
+Union of two arrays
+Subarray with given sum
+Count pairs with given sum
+Sort array of 0s,1s,2s (Dutch Flag)
+Merge two sorted arrays
 
 Hard (21–30)
-21. Kadane’s Algorithm (max subarray sum)
-22. Find majority element (> n/2 times)
-23. Trapping Rain Water
-24. Stock Buy & Sell (maximize profit)
-25. Rearrange positive & negative alternatively
-26. Find equilibrium index
-27. Maximum product subarray
-28. Longest consecutive sequence
-29. Find duplicates without extra space
-30. Minimum swaps to sort array
+Kadane’s Algorithm (max subarray sum)
+Find majority element (> n/2 times)
+Trapping Rain Water
+Stock Buy & Sell (maximize profit)
+Rearrange positive & negative alternatively
+Find equilibrium index
+Maximum product subarray
+Longest consecutive sequence
+Find duplicates without extra space
+Minimum swaps to sort array
 
 2️⃣ STRINGS (30 QUESTIONS)
 
@@ -76,8 +76,8 @@ Check if anagrams
 First non-repeating character
 
 Medium (11–20)
-11. Reverse words in sentence
-12. Remove duplicates
+Reverse words in sentence
+Remove duplicates
 13. Character frequency
 14. Check rotation
 15. Find substring
